@@ -1,0 +1,9 @@
+com\example\servlet\AdminLoginServlet.class
+com\example\servlet\DashboardServlet.class
+controller\UpdateStudentServlet.class
+model\DBConnection.class
+controller\DeleteStudentServlet.class
+com\mycompany\studentmanagementsystem\JakartaRestConfiguration.class
+com\mycompany\studentmanagementsystem\resources\JakartaEE11Resource.class
+controller\AddStudentServlet.class
+com\mycompany\studentmanagement\controller\TestRedirectServlet.class
